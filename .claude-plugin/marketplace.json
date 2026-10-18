@@ -1,0 +1,5 @@
+{
+  "name": "token-claude-mod",
+  "owner": { "name": "Gareth-Vassallo" },
+  "plugins": [{ "name": "token-dashboard", "source": "./" }]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "token-dashboard",
+  "version": "0.1.0",
+  "description": "Live token dashboard: context fill, cost, input/output/cache totals, rate limits and recent turns",
+  "types": "./types/index.d.ts"
+}

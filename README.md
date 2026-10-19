@@ -25,5 +25,3 @@ From a shell:
 ```
 claude plugin install token-dashboard --marketplace Gareth-Vassallo/token-claude-mod
 ```
-
-This repository is private. You can install it only if you have read access to it on GitHub and your machine already has a git credential for github.com: an SSH key, or `gh auth login` followed by `gh auth setup-git`.
